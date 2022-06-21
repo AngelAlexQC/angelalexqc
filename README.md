@@ -1,7 +1,8 @@
-### Hi there 👋
+![](https://github-readme-stats-one-bice.vercel.app/api?username=angelalexqc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
 
 <!--
-**AngelAlexQC/angelalexqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**belgattitude/belgattitude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
